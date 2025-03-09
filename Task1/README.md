@@ -61,4 +61,7 @@
     * данные банковских счетов клиентов
 
 ### Mindmap:
-![mindmap.png](mindmap.png)
+![img_1.png](mindmap.png)
+
+### Итоговая таблица рисков:
+![img.png](conclusion_table.png)
